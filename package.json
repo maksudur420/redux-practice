@@ -13,6 +13,7 @@
   "author": "Md Maksudur Rahman",
   "license": "ISC",
   "dependencies": {
-    "redux": "^4.2.1"
+    "redux": "^4.2.1",
+    "redux-logger": "^3.0.6"
   }
 }
